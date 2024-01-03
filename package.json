@@ -11,7 +11,7 @@
     "@mdi/font": "^3.6.95",
     "chart.js": "^2.9.3",
     "core-js": "^3.6.4",
-    "plotly.js": "^1.54.1",
+    "plotly.js": "^2.25.2",
     "roboto-fontface": "*",
     "vue": "^2.6.11",
     "vue-plotly": "^1.1.0",
